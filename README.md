@@ -5,7 +5,7 @@ This guide will help you set up the Createathon project, including backend and f
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/createathon.git
+git clone https://github.com/SakshamChouhan/createathon.git
 cd createathon
 ```
 
