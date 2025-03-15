@@ -5,8 +5,7 @@ import os
 from dotenv import load_dotenv
 import dj_database_url
 
-# Load the .env file from the 'createathon-backend' folder
-dotenv_path = Path(__file__).resolve().parent / '.env'  # Adjusted path to point to createathon-backend
+dotenv_path = Path(__file__).resolve().parent / '.env'
 load_dotenv(dotenv_path=dotenv_path)
 
 BASE_DIR = Path(__file__).resolve().parent.parent
