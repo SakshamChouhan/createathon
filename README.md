@@ -39,7 +39,7 @@ Create a `.env` file in the `backend` directory and add:
 TELEGRAM_BOT_TOKEN=<your_telegram_bot_token>
 SECRET_KEY=<your_django_secret_key>
 DEBUG=True
-DB_NAME=createathon
+DB_NAME=your_db
 DB_USER=your_db_user
 DB_PASSWORD=your_db_password
 DB_HOST=localhost
