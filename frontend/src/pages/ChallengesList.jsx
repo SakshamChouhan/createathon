@@ -108,12 +108,6 @@ const ChallengesList = () => {
                                         {isAdmin && (
                                             <>
                                                 <Link
-                                                    to={`/edit-challenge/${challenge.id}`}
-                                                    className="bg-yellow-500 text-white px-3 py-1 rounded hover:bg-yellow-600"
-                                                >
-                                                    Edit
-                                                </Link>
-                                                <Link
                                                     to={`/add-test-cases/${challenge.id}`}
                                                     className="bg-green-500 text-white px-3 py-1 rounded hover:bg-green-600"
                                                 >
