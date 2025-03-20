@@ -103,4 +103,4 @@ uvicorn main:app --host 0.0.0.0 --port 8001 --reload
 4. Run the FastAPI microservice (`uvicorn main:app --host 0.0.0.0 --port 8001 --reload`)
 5. Start the frontend (`npm run dev`)
 
-
+## CodeLikeARed❤️
